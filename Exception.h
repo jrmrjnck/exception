@@ -1,7 +1,8 @@
-/**
- * Jonathan Doman
- * jonathan.doman@gmail.com
-**/
+/*
+ * Copyright © 2013 by Jonathan Doman <jonathan.doman@gmail.com>
+ *
+ * See COPYING for license terms
+ */
 #ifndef EXCEPTION_H
 #define EXCEPTION_H
 
